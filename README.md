@@ -10,4 +10,9 @@ This configuration alerts on:
  4. VNC Connection Attempts
  
  
- Data Collection Dates: 
+Outside of the InfoSec community, there is a lack of awareness, knowledge and concern for cyber threats. The lay person view of security presumes security through obscurity. 
+A common thought about security is:
+
+“Who would want to attack me?!” 
+This presentation seeks to provide some context to that question.
+
